@@ -1,0 +1,8 @@
+{
+  "name": "cstm-jssuppot",
+  "version": "0.0.1",
+  "description": "Обертка над стандартной библиотекой path, для комфорта",
+  "main": "jssuppot.js",
+  "author": "TarhunNyan",
+  "license": "GPL v3"
+}
