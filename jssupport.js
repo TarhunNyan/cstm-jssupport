@@ -228,3 +228,24 @@ function func__curry(func) {
         }
     }
 }
+
+module.exports = {
+    if__null,
+    if__true,
+    if__false,
+    if__eqPrim,
+    if__eqArrOfPrim,
+    if__eqArrLength,
+    if__eqLength,
+
+    itter__length,
+
+    convert__stringToBoolean,
+
+    for__simple,
+    for__CashArr,
+    for2__simple,
+    for2__CashArr,
+
+    func__compose,
+};
